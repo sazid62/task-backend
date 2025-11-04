@@ -9,6 +9,7 @@ A simple backend built with **AdonisJS v6**, using **TypeScript**, **Lucid ORM**
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/sazid62/task-backend.git
+
 cd task-backend
 
 ---
