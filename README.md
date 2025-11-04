@@ -34,9 +34,13 @@ CREATE DATABASE (YOUR_DB_NAME);
 Create a file named `.env` and fill it with the following content:
 
 TZ=UTC
+
 PORT=3333
+
 HOST=localhost
+
 LOG_LEVEL=info
+
 APP_KEY=oyh9YPKzGyCdz-4RqnNFnWs3GsFmvXem
 
 NODE_ENV=development
