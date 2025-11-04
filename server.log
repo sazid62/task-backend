@@ -1,0 +1,14 @@
+
+> adonisProject@0.0.0 dev
+> node ace serve --hmr
+
+c[ info ] starting HTTP server...
+╭─────────────────────────────────────────────────╮
+│                                                 │
+│    Server address: http://localhost:3333        │
+│    Watch Mode: HMR                              │
+│    Ready in: 226 ms                             │
+│                                                 │
+╰─────────────────────────────────────────────────╯
+[15:52:34.256] INFO (97603): started HTTP server on localhost:3333
+invalidated app/middleware/auth_middleware.ts
